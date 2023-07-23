@@ -9,6 +9,7 @@ The dataset named event_data is stored in the directory event_data, containing C
 
 ## ETL Pipeline
 The project's Extract, Transform, Load (ETL) pipeline consists of three main steps:
+![](ETL.JPG)
 ### 1. Extract
 In this step, I process all CSV files within the event_data directory to create a new CSV file containing relevant information for populating the Apache Cassandra tables.
 ### 2. Transform
