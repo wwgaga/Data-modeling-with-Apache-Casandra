@@ -1,4 +1,4 @@
-# Data Modeling with Cassandra
+# Udacity-Data-engineer-Project-0-Data-Modeling-with-Cassandra
 ## Project Overview
 Sparkify, a startup music streaming app, aims to analyze the data collected on songs and user activity within their platform. The analysis team's primary focus is understanding users' listening behavior and preferences. However, the current data storage structure comprises CSV files in a directory, making it difficult to perform efficient queries for generating meaningful insights.
 
