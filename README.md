@@ -1,4 +1,9 @@
 # Udacity-Data-engineer-Project-0-Data-Modeling-with-Cassandra
+
+The objective of this project is to create an Apache Cassandra database capable of handling queries on song play data to understand users' listening behavior and preferences on a music streaming app .
+•	Model event data to create a non-relational database and ETL pipeline for the data collected on songs and user activity.
+•	Define query and tables for a database built using Apache Cassandra.
+
 ## Project Overview
 Sparkify, a startup music streaming app, aims to analyze the data collected on songs and user activity within their platform. The analysis team's primary focus is understanding users' listening behavior and preferences. However, the current data storage structure comprises CSV files in a directory, making it difficult to perform efficient queries for generating meaningful insights.
 
